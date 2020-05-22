@@ -28,9 +28,9 @@ def weebify(bot: Bot, update: Update, args: List[str]):
 
 
 __help__ = """
- Originally Made By [Ayan Ansari](t.me/TechnoAyanOfficial)
+ Originally Made By [Unknown Hacker X](t.me/Unknown_Hacker_X) . 
  
- - /blackout <text>: Apply Blackout Style to your text
+ - /blackout <text>: Apply Blackout Style to your text: 
  """
 
 WEEBIFY_HANDLER = DisableAbleCommandHandler("blackout", weebify, pass_args=True)
