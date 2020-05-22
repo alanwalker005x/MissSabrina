@@ -31,7 +31,7 @@ PM_START_TEXT = """
 
 *I'm* *A* *Group* *Management* *Bot*, *Made* *With* *Love* *And* *Managed* *By* [This Awesome Person](https://t.me/Unknown_Hacker_X) . 
 
-*If* *You* *Need* *Any* *Support* *Or* *Any* *Help* .. *Please* *Join* [Rashmika Support Group](https://t.me/Sabrina_RoBotChat) . 
+*If* *You* *Need* *Any* *Support* *Or* *Any* *Help*.. *Please* *Join* [Rashmika Support Group](https://t.me/Sabrina_RoBotChat) . 
 
 *Hit* /help *To* *Know* *More* *About* *My* *Full* *Potential* *Use!*
 """
