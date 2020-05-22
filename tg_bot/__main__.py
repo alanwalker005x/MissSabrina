@@ -420,7 +420,7 @@ def donate(bot: Bot, update: Update):
             update.effective_message.reply_text("Contact Me In PM To Get Info To Donate My Creator!") 
 reply_text("I've PM'ed You About Donating To My Creator!") 
         except Unauthorized:
-            update.effective_message.reply_text("Contact Me In PM To Get Info To Donate My Creator") 
+            update.effective_message.reply_text("Contact Me In PM To Get Info To Donate My Creator!") 
 
 def migrate_chats(bot: Bot, update: Update):
     msg = update.effective_message  # type: Optional[Message]
